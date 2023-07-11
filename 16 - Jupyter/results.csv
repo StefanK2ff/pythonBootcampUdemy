@@ -1,13 +1,2 @@
-name,family_name,age,course
-BOB,ROSS,20,Philosophie
-BOB2,ROSS,20,Philosophie
-BOB3,ROSS,20,Philosophie
-BOB4,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Philosophie
-BOB,ROSS,20,Kulturwissenschaften
-BOB,ROSS,20,Philosophie
+name;family_name;age;course
+BOB;ROSS;20;Informatik
